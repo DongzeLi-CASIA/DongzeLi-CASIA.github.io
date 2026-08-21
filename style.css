@@ -235,6 +235,17 @@ li p, dd p {
 	margin-bottom: 0.3em;
 }
 
+.news-list {
+	margin-top: 0.4em;
+	padding-left: 1.5em;
+}
+
+.news-list li {
+	margin-bottom: 0.35em;
+	line-height: 1.3;
+	font-size: 105%;
+}
+
 
 ol ol {
 	list-style-type: lower-alpha;
@@ -391,4 +402,3 @@ table.imgtable, table.imgtable td {
 font-family: 'FZKT';
 src: url('FZKT.ttf');
 }
-
